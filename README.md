@@ -1,4 +1,4 @@
-# [#7856](https://code.google.com/p/gmaps-api-issues/issues/detail?id=8591) marker click: cycle through overlaying markers 
+# [#8591](https://code.google.com/p/gmaps-api-issues/issues/detail?id=8591) marker click: cycle through overlaying markers 
 
 This project is an attempt to replicate the issue documented at:
 [gmaps-api-issues/8591](https://code.google.com/p/gmaps-api-issues/issues/detail?id=8591)
